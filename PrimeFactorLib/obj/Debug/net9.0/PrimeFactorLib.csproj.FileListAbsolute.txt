@@ -1,0 +1,11 @@
+/Users/sudankhatri/PrimeFactorSolution/PrimeFactorLib/bin/Debug/net9.0/PrimeFactorLib.deps.json
+/Users/sudankhatri/PrimeFactorSolution/PrimeFactorLib/bin/Debug/net9.0/PrimeFactorLib.dll
+/Users/sudankhatri/PrimeFactorSolution/PrimeFactorLib/bin/Debug/net9.0/PrimeFactorLib.pdb
+/Users/sudankhatri/PrimeFactorSolution/PrimeFactorLib/obj/Debug/net9.0/PrimeFactorLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sudankhatri/PrimeFactorSolution/PrimeFactorLib/obj/Debug/net9.0/PrimeFactorLib.AssemblyInfoInputs.cache
+/Users/sudankhatri/PrimeFactorSolution/PrimeFactorLib/obj/Debug/net9.0/PrimeFactorLib.AssemblyInfo.cs
+/Users/sudankhatri/PrimeFactorSolution/PrimeFactorLib/obj/Debug/net9.0/PrimeFactorLib.csproj.CoreCompileInputs.cache
+/Users/sudankhatri/PrimeFactorSolution/PrimeFactorLib/obj/Debug/net9.0/PrimeFactorLib.dll
+/Users/sudankhatri/PrimeFactorSolution/PrimeFactorLib/obj/Debug/net9.0/refint/PrimeFactorLib.dll
+/Users/sudankhatri/PrimeFactorSolution/PrimeFactorLib/obj/Debug/net9.0/PrimeFactorLib.pdb
+/Users/sudankhatri/PrimeFactorSolution/PrimeFactorLib/obj/Debug/net9.0/ref/PrimeFactorLib.dll
